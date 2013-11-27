@@ -5,10 +5,9 @@ Dumping, rapidly iterating through, and collecting all my thoughts and considera
 
 ***
 
-Product Names
--------------
-Considerations for a product and company name.  
-[20131125T04:00-08]  
+##Word Study
+The purpose of this brief word study is to determine a suitable name for the product and company of this project. Starting with a few words I already consider as being descriptive of the key qualities underpinning the product I will explore others until a phonetically appealing and concise word is found.  
+[original 20131125T04:00-08 | update 11:00]  
 ###adept
 
 > **Definition**  
@@ -55,6 +54,6 @@ astute, shrewd,  agile, nimble, clever, intelligent, brilliant, keen, smart, can
 "having or showing sharp powers of judgment; astute."
 
 > **Select Synonyms**  
-astute,  smart, acute, intelligent, clever, canny, perceptive, perspicacious, sagacious, wise, sapient
+astute, smart, acute, intelligent, clever, canny, perceptive, perspicacious, sagacious, wise, sapient
 
 to be cont...
