@@ -1,6 +1,6 @@
 BRAINSTORMS
 ===========
-Dumping, rapidly iterating through, and collecting all my thoughts and considerations for this project.  
+Collecting and rapidly iterating through all my thoughts and considerations for this project.  
 [20131125T03:00-08]
 <br/><br/><br/>
 
@@ -64,4 +64,6 @@ to be cont...
 Create a description that aptly describes the product of this project and it's value.  
 [20131127T15:54-08]
 
-> Astute is an application capable of making highly informed decisions to optimize business operations.
+> Astute is an application that makes truly informed decisions, optimizing business operations.
+
+> Managing the operations of a business is managing a complex and dynamic system. People have a limited capacity for dealing with systems when those systems are complex and affected by many factors. We inevitably fail to account for all factors, especially those that are many times removed, affecting the system indirectly. For tasks of this nature, we are not adept. Astute *is* adept. Astute goes far beyond providing insights (descriptive analytics), predictions (predictive analytics), and suggestions (prescriptive analytics). Astute executes and takes action itself, achieving the optimization that is the objective of every business.
