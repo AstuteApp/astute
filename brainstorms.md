@@ -64,7 +64,7 @@ to be cont...
 [20131127T15:54-08]  
 Create a description that aptly describes the product of this project and it's value.
 
-> [20131127T-08 | Cindy Morales', Le Conte, Berkeley}  
+> [20131127T23:50-08 | Cindy Morales', 2540 Le Conte Ave, Berkeley]  
 Astute is an application that makes truly informed decisions, optimizing business operations.
 
 > Managing the operations of a business is managing a complex and dynamic system. People have a limited capacity for dealing with systems when those systems are complex and affected by many factors. We inevitably fail to account for all factors, especially those that are many times removed, affecting the system indirectly. For tasks of this nature, we are not adept. Astute *is* adept. Astute goes far beyond providing insights (descriptive analytics), predictions (predictive analytics), and suggestions (prescriptive analytics). Astute executes and takes action itself, achieving the optimization that is the objective of every business.
