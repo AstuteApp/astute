@@ -71,3 +71,6 @@ Astute is an application that makes truly informed decisions, optimizing busines
 
 >[2013120101T01:16-08 | Rick Deacon's, 760 De Haro, San Francisco]  
 Astute is not about dashboards, graphs, charts, or "providing insights"...
+
+>[20131224T08:58-08 | Work, Whole Foods Market, 450 Rhode Island, Potrero Hill, San Francisco, CA]  
+Replace arbitrary, biased, and/or illinformed discision making with pragmatic descision making that's always on piont.
